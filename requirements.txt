@@ -1,10 +1,10 @@
 attrs==21.2.0
-backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
-bleach @ file:///tmp/build/80754af9/bleach_1612211392645/work
+backcall==0.2.0
+bleach==3.3.0
 certifi==2020.12.5
-cffi @ file:///opt/concourse/worker/volumes/live/a70943eb-ad97-40c6-78c9-98764c1bee07/volume/cffi_1613246936716/work
+cffi==1.14.5
 cycler==0.10.0
-decorator @ file:///tmp/build/80754af9/decorator_1620904181799/work
+decorator==5.0.9
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 entrypoints==0.3
 importlib-metadata @ file:///opt/concourse/worker/volumes/live/bdafb81c-7edc-4122-77fe-a69839ec3c71/volume/importlib-metadata_1617877361684/work
