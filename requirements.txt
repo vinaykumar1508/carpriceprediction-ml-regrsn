@@ -1,4 +1,4 @@
-attrs = 21.2.0
+attrs==21.2.0
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 bleach @ file:///tmp/build/80754af9/bleach_1612211392645/work
 certifi==2020.12.5
